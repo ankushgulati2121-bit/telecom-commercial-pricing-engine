@@ -18,10 +18,12 @@ This engine automates the financial evaluation of multi-tier enterprise telecomm
 ## Model Visualizations
 
 ### 1. B2B Deal Margin Waterfall
-![Deal Waterfall](waterfall.png)
+<img width="1180" height="500" alt="Waterfall" src="https://github.com/user-attachments/assets/f9ed4ccb-07ed-4848-963e-8488c5e7ae04" />
+
 
 ### 2. Hardware Credit Recovery Trajectory
-![Payback Curve](payback.png)
+<img width="1180" height="450" alt="Payback" src="https://github.com/user-attachments/assets/d5753c53-7029-42fe-9830-376d9fea9a2b" />
+
 
 ---
 
